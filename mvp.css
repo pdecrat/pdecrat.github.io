@@ -341,6 +341,10 @@ a i {
     padding: 1rem 2rem;
 }
 
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+}
+
 article aside a {
     color: var(--color-secondary);
 }
