@@ -281,7 +281,7 @@ a {
     color: var(--color-link);
     display: inline-block;
     font-weight: bold;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 a:hover {
